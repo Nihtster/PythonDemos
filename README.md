@@ -2,7 +2,7 @@
 
 Contains all of the python projects I've written in the early years of my programming career.
 
-None of the files have been edited or revised, all code within the files are the same as when they were initially created and completed.
+The files have been altered with better naming, but all code within the files are the same as when they were initially created and completed.
 
 # Table of contents
 
@@ -15,7 +15,7 @@ None of the files have been edited or revised, all code within the files are the
 
 **Base:** Python
 
-**Libraries:** TurtleGraphics, Tkinter
+**Libraries:** Turtle Graphics, Tkinter
 
 ## Lessons Learned
 

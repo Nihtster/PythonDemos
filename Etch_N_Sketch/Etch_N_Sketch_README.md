@@ -18,7 +18,7 @@ This application was an aimed to replicate the use of an etch n sketch.
 [**Turtle Graphics**](https://docs.python.org/3/library/turtle.html) - A Python library used for geometric drawing
 
 ## Screenshots
-
+Startup (windows have been formatted so that all are visible.)
 <img src = "images/startup.png">
 
 ## Run Locally
